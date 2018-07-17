@@ -1,0 +1,11 @@
+{
+	"ret":"true",
+	"data": {
+		"isRegister": [{
+			"username": "liuhao",
+			"password": 111111
+			}]
+		
+
+	}
+}

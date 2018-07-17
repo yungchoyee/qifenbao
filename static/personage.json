@@ -1,0 +1,40 @@
+{
+	"ret": true,
+	"data" : {
+		"personage":[{
+			"id":1,
+			"imgUrl" : "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=503286400,676445594&fm=27&gp=0.jpg",
+			"title" : "风华抵不过流沙"
+			}],
+		"message": [{
+			"id":1,
+			"imgUrl":"../../../static/imgs/2.png",
+			"title" : "收藏"
+			},
+			{
+			"id":2,
+			"imgUrl":"../../../static/imgs/3.png",
+			"title" : "消息"
+			},
+			{
+			"id":3,
+			"imgUrl":"../../../static/imgs/4.png",
+			"title" : "签到"
+			}],
+		"lately": [{
+			"id":1,
+			"imgUrl":"../../../static/imgs/5.png",
+			"title" : "最近阅读"
+			},
+			{
+			"id":2,
+			"imgUrl":"../../../static/imgs/6.png",
+			"title" : "邀请朋友"
+			},
+			{
+			"id":3,
+			"imgUrl":"../../../static/imgs/7.png",
+			"title" : "设置"
+			}]
+	}
+}
